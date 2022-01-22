@@ -1,0 +1,13 @@
+{
+  "navigationBarTitleText": "催办",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "u-icon": "/uni_modules/uview-ui/components/u-icon/u-icon",
+    "u-button": "/uni_modules/uview-ui/components/u-button/u-button",
+    "u-line": "/uni_modules/uview-ui/components/u-line/u-line",
+    "u-collapse": "/uni_modules/uview-ui/components/u-collapse/u-collapse",
+    "u-collapse-item": "/uni_modules/uview-ui/components/u-collapse-item/u-collapse-item",
+    "u-tabbar": "/uni_modules/uview-ui/components/u-tabbar/u-tabbar",
+    "u-tabbar-item": "/uni_modules/uview-ui/components/u-tabbar-item/u-tabbar-item"
+  }
+}

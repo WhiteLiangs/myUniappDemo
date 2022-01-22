@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "申请二级供应商",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "u-icon": "/uni_modules/uview-ui/components/u-icon/u-icon",
+    "u-line": "/uni_modules/uview-ui/components/u-line/u-line",
+    "u-button": "/uni_modules/uview-ui/components/u-button/u-button"
+  }
+}

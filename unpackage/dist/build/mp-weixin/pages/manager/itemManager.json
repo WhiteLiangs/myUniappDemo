@@ -1,0 +1,15 @@
+{
+  "navigationBarTitleText": "项目审核",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "u-sticky": "/uni_modules/uview-ui/components/u-sticky/u-sticky",
+    "u-tabs": "/uni_modules/uview-ui/components/u-tabs/u-tabs",
+    "u-tag": "/uni_modules/uview-ui/components/u-tag/u-tag",
+    "u-avatar-group": "/uni_modules/uview-ui/components/u-avatar-group/u-avatar-group",
+    "u-avatar": "/uni_modules/uview-ui/components/u-avatar/u-avatar",
+    "u-line": "/uni_modules/uview-ui/components/u-line/u-line",
+    "u-popup": "/uni_modules/uview-ui/components/u-popup/u-popup",
+    "u-icon": "/uni_modules/uview-ui/components/u-icon/u-icon",
+    "u-loadmore": "/uni_modules/uview-ui/components/u-loadmore/u-loadmore"
+  }
+}
