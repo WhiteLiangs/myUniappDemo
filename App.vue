@@ -8,7 +8,13 @@
 	
 	export default {
 		onLaunch: function() {
-			
+			// 下载网络字体全局
+			wx.loadFontFace({
+			  global:true,
+			  family: 'Ping Fang',
+			  source: 'url("http://hwx-hotel.oss-cn-beijing.aliyuncs.com/xcx_other/PingFang%20Medium.ttf")',
+			  success: console.log
+			})
 			wx.login({
 				success: res => {
 					if (res.code) {
